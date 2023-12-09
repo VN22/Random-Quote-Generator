@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/random-quote-generator/static/css/main.fbebb978.css",
+    "main.css": "/random-quote-generator/static/css/main.9ea92aaa.css",
     "main.js": "/random-quote-generator/static/js/main.578bbeb4.js",
     "static/js/787.0bc901c9.chunk.js": "/random-quote-generator/static/js/787.0bc901c9.chunk.js",
     "static/media/twitter.svg": "/random-quote-generator/static/media/twitter.d7450657b1635e0e20b3eae1affce2bb.svg",
     "static/media/tumblr.svg": "/random-quote-generator/static/media/tumblr.747d2147214a0e799fb980e1875262c7.svg",
     "index.html": "/random-quote-generator/index.html",
-    "main.fbebb978.css.map": "/random-quote-generator/static/css/main.fbebb978.css.map",
+    "main.9ea92aaa.css.map": "/random-quote-generator/static/css/main.9ea92aaa.css.map",
     "main.578bbeb4.js.map": "/random-quote-generator/static/js/main.578bbeb4.js.map",
     "787.0bc901c9.chunk.js.map": "/random-quote-generator/static/js/787.0bc901c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbebb978.css",
+    "static/css/main.9ea92aaa.css",
     "static/js/main.578bbeb4.js"
   ]
 }
