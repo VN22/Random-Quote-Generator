@@ -40,3 +40,9 @@
     border: none;
     cursor: pointer;
 }
+
+@media(max-width:990px) {
+    .quote-box {
+        max-width: 75vw;
+    }
+}

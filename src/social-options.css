@@ -6,7 +6,7 @@
 }
 
 .social-options__icon {
-    width: 27px;
-    height: 27px;
+    width: 2rem;
+    height: 2rem;
     filter: brightness(100%) invert(1);
 }
