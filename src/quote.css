@@ -1,0 +1,42 @@
+.quote-box {
+    max-width: 50vw;
+    padding: 1rem;
+    background-color: whitesmoke;
+}
+
+.quote {
+    padding: 1rem;
+    position: relative;
+}
+
+.quote__text {
+    font-size: 4rem;
+    padding-block: 1rem;
+}
+
+.quote__text::before {
+    content: "\275D";
+    font-size: 5rem;
+    padding-inline: 0.5rem;
+}
+
+.quote__author {
+    font-size: 2.5rem;
+    padding-block: 1.5rem;
+    text-transform: capitalize;
+    text-align: right;
+}
+
+.quote-box__bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.quote-box__button {
+    padding: 1rem 1.5rem;
+    color: #fff;
+    margin: 1rem;
+    border: none;
+    cursor: pointer;
+}

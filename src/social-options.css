@@ -1,0 +1,12 @@
+.social-options {
+    padding: 0.8rem;
+    color: #fff;
+    display: inline-block;
+    margin: 1rem;
+}
+
+.social-options__icon {
+    width: 27px;
+    height: 27px;
+    filter: brightness(100%) invert(1);
+}
